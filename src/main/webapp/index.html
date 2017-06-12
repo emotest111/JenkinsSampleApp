@@ -1,8 +1,3 @@
-<
-    String user = request.getParameter("uname");    
-    String pwd = request.getParameter("pass");
->
-
 <html lang="en">
 
 <head>
@@ -25,7 +20,10 @@
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-	
+	<%
+    		String user = request.getParameter("uname");    
+    		String pwd = request.getParameter("pass");
+        %>
 	<section class="hero" id="intro">
             <div class="container">
               <div class="row">
