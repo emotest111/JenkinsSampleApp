@@ -35,7 +35,7 @@
 					<%
 					session.removeAttribute("message");
 					}%> 
-					 <!--  Forgot password link start --> 
+					 <!--   Forgot password link start --> 
 				<!--	 <tr>
                         <td colspan="2" align = "center"><a href = "reset-password.jsp">Forgot password? </a></td>
                     </tr> -->
