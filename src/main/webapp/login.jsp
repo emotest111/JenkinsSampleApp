@@ -42,7 +42,7 @@
 					< Forgot password link ends --/>
                 </tbody>
             </table>
-            </center>
+            </center> 
         </form>
     </body>
 </html>
